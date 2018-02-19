@@ -1,0 +1,2 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:21584
+Intel(R)Core(TM)i5-5287UCPU@2.90GHz:regular:16291
